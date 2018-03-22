@@ -8,9 +8,14 @@ I'm currently an undergraduate from Zhejiang University interested in network em
 Rui Feng
 ============
 
+
 -------------------     ----------------------------
-email                          neo_rfeng@zju.edu.cn 
--------------------     ----------------------------
+Email                    neo_rfeng@zju.edu.cn 
+
+Github                   https://github.com/rhythmswing
+
+-------------------     -----------------------------------------------     ----------------------------
+
 
 Biography
 ---------
