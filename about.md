@@ -47,12 +47,12 @@ Research Projects
 
 Publications
 -----------
-Yang Yang\*, **Rui Feng\***, Fei Wu, Yueting Zhuang, Zhanlin Sun. *Non-discriminative Representation Learning: An Adversarial Gaming Framework.* IJCAI 2018 (in review).
+Yang Yang\*, **Rui Feng**\*, Fei Wu, Yueting Zhuang, Zhanlin Sun. *Non-discriminative Representation Learning: An Adversarial Gaming Framework.* IJCAI 2018 (in review).
 
 **these authors contributed equally to the work*
 
 
-**Rui Feng\***, Yang Yang*, Wenjie Hu, Yueting Zhuang, Fei Wu. *Representation Learning for Scale-free Networks*. AAAI 2018.  [[paper]](https://arxiv.org/abs/1711.10755) [code]
+**Rui Feng**\*, Yang Yang\*, Wenjie Hu, Yueting Zhuang, Fei Wu. *Representation Learning for Scale-free Networks*. AAAI 2018.  [[paper]](https://arxiv.org/abs/1711.10755) [code]
 
 **these authors contributed equally to the work*
 
