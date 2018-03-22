@@ -12,7 +12,7 @@ Github                   https://github.com/rhythmswing
 
 -------------------     -----------------------------------------------     ----------------------------
 
-Biography
+Intro
 ---------
 I'm a junior undergraduate of Zhejiang University interested in network mining, data science and statistical learning theory. Currenly I'm working as a research intern in [DCD](http://www.dcd.zju.edu.cn/) Lab (Digital media Computing & Design Lab), Zhejiang University, under the guidance of [Yang Yang](http://yangy.org/).
 I'm planning to extend my study by applying for a PhD program next year and I am majorly interested in machine learning/data mining/statistics programs.
