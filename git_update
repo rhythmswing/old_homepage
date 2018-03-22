@@ -1,0 +1,11 @@
+#!/bin/bash
+#git pull origin source
+jekyll build
+git add --all
+git commit -m 'update source'
+git push origin master:source
+cd _site/
+git add --all
+git commit -m 'update site'
+git push origin master
+cd ..
