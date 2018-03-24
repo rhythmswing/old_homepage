@@ -5,6 +5,7 @@ git add --all
 git commit -m 'update source'
 git push origin master:source
 cd _site/
+echo -n 'ruis.tech' > CNAME
 git add --all
 git commit -m 'update site'
 git push origin master

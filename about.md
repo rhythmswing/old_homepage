@@ -45,6 +45,8 @@ Research Projects
 - Theoretically analyzed the feasibility of embedding scale-free networks onto Euclidean space using tools of the sphere packing analysis. 
 - Proposed degree-punishment principle to optimize the embedding efficiency of scale-free networks.
 
+![Test](./pics/scalefree_illustrate.png)
+
 Publications
 -----------
 Yang Yang \*, **Rui Feng** \*, Fei Wu, Yueting Zhuang, Zhanlin Sun. *Non-discriminative Representation Learning: An Adversarial Gaming Framework.* IJCAI 2018 (in review).
