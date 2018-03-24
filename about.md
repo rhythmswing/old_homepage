@@ -6,7 +6,7 @@ permalink: /about/
 Rui Feng
 ====
 
-Email                    neo_rfeng@zju.edu.cn 
+Email                    neo_rfeng at zju dot edu dot cn 
 
 Github                   https://github.com/rhythmswing
 
