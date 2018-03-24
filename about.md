@@ -42,10 +42,14 @@ Research Projects
 **Representation Learning of Scale-free Networks**
 
 *Joint work with Yang Yang and Wenjie Hu*
-- Theoretically analyzed the feasibility of embedding scale-free networks onto Euclidean space using tools of the sphere packing analysis. 
-- Proposed degree-punishment principle to optimize the embedding efficiency of scale-free networks.
 
-![Test](./pics/scalefree_illustrate.png)
+- Theoretically analyzed the feasibility of embedding scale-free networks onto Euclidean space using tools of the sphere packing analysis. 
+- Proposed *degree-punishment principle* to optimize the embedding efficiency of scale-free networks, by measuring the preservation of the scale-free property.
+- Our principle is able to significantly improve efficiency of representation vectors in various network mining tasks.
+
+As illustrated in the figure below, the scale-free property of complex networks can hardly be preserved in low-dimensional Euclidean space.
+![Relation between scale-free property and sphere-packing problem.](/pics/scalefree_illustrate.png)
+
 
 Publications
 -----------
