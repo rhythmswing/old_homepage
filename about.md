@@ -50,6 +50,10 @@ Research Projects
 As illustrated in the figure below, the scale-free property of complex networks can hardly be preserved in low-dimensional Euclidean space.
 ![Relation between scale-free property and sphere-packing problem.](/pics/scalefree_illustrate.png)
 
+Applying the principle improves the representation vector's ability to reconstruct a scale-free network. 
+![Reconstruction of scale-free network](/pics/scalefree_result.png)
+
+
 
 Publications
 -----------
