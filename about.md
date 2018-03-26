@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-Rui Feng
+Rui Feng [CV](/cv/resume.pdf)
 ====
 
 Email                    neo_rfeng at zju dot edu dot cn 
