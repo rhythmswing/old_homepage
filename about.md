@@ -5,7 +5,7 @@ permalink: /about/
 ---
 Rui Feng [CV](/cv/resume.pdf)
 ====
-<img style="float: right;" height="105" src="pics/avatar.png">
+<img style="float: right;" height="105" src="../pics/avatar.png">
 
 Undergraduate, Zhejiang University
 
