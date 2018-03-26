@@ -3,9 +3,10 @@ layout: page
 title: About
 permalink: /about/
 ---
-<img style="float: right;" height="175" src="../pics/avatar.png">
 Rui Feng [CV](/cv/resume.pdf)
 ====
+<img style="float: right;" height="105" src="pics/avatar.png">
+
 Undergraduate, Zhejiang University
 
 Email                    neo_rfeng at zju dot edu dot cn 
