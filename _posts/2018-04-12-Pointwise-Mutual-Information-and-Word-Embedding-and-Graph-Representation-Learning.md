@@ -3,6 +3,7 @@ layout: post
 title:  "Pointwise Mutual Information and Word Embedding, and Graph Representation Learning"
 date:   2018-04-16 07:29:54 +0800
 categories: representation learning
+use_math: true
 ---
 
 # Introduction
