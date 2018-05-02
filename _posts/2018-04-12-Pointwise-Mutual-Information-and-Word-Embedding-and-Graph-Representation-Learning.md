@@ -9,6 +9,8 @@ categories: representation learning
 
 One important question in machine learning is to represent effectively complex objects in computationally tractable approach. Common procedures are to assign these objects some vectors in a finite dimensional vector space, taking advantage of the geometric structure of the vector space. 
 
+$$ x^2+y^2+z^2=0 $$
+
 ​	Examples include: words, sentences, documents in NLP; vertices in graphs; images; etc... In machine learning, people call it "embedding": word embedding, graph embedding. We call such assignment of vectors is called "embedding". Formally, given a set of objects $\mathcal{O}$, the embedding is a mapping $\Phi:\mathcal{O}\rightarrow \mathcal{R}^d$.
 
 ​	This is a summary of two representation algorithms: word2vec, which learns word embedding, and Deep2walk, which learns embedding for vertices in a social network. 
