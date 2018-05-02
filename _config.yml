@@ -22,7 +22,7 @@ twitter_username:
 github_username:  rhythmswing
 
 # Build settings
-markdown: redcarpet2
+markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
