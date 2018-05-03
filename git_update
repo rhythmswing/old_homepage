@@ -1,6 +1,6 @@
 #!/bin/bash
 #git pull origin source
-jekyll build
+bundle exec jekyll build
 git add --all
 git commit -m 'update source'
 git push origin master:source
